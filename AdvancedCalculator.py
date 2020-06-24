@@ -1,24 +1,10 @@
 import math
 
-print('8,'*14  + '9,'*8 + '10,'*28 + '11,'*15  + '12,'*20)
-
 # make a SD calculator
 # take in inputs as numbers divided by commas
 # make a function which retruns the number of inputs (len(smth))
 # make another function that add all values and returns value
 # make another function that calculates mean and returns its value
-
-
-"""
-numbers = input("Insert the numbers you want the mean of: ")
-stringNumberList = numbers.split(',')
-numberList = list()
-
-
-
-for i in stringNumberList:
-    numberList.append(int(i))
-"""
 
 
 # run a while loop which ends when user inputs '.' as their input
